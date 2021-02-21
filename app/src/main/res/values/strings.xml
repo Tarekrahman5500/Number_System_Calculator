@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Number System Calculator</string>
+    <string name="number_converter">number Converter</string>
+    <string name="Number_converter"/>
+    <string name="todo">TODO</string>
+    <string name="app_logo">app logo</string>
+    <string name="clear">Clear</string>
+    <string name="number_system_calculator">Number System Calculator</string>
+
+
+</resources>
